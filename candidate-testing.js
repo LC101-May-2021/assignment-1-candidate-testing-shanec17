@@ -1,5 +1,24 @@
 const input = require('readline-sync');
 
+
+let candidateName= input.question("Enter Candidate name: ");
+console.log; ("Hello"+ candidateName)
+
+let firstWomeninSpace= input.question("Who was first women in space")
+let kmMile= input.question("True or False is 5 KM===5000 meters")
+
+
+
+
+
+
+
+
+
+
+
+const input = require('readline-sync');
+
 // TODO 2: modify your quiz app to ask 5 questions //
 
 // TODO 1.1a: Define candidateName // 
