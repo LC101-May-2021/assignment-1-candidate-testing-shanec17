@@ -1,11 +1,12 @@
+// TODO 1.1a: Define candidateName //
 const input = require('readline-sync');
 
 
 let candidateName= input.question("Enter Candidate name: ");
-console.log; ("Hello"+ candidateName)
+//console.log; ("Hello"+ candidateName)
 
-let firstWomeninSpace= input.question("Who was first women in space")
-let kmMile= input.question("True or False is 5 KM===5000 meters")
+//let firstWomeninSpace= input.question("Who was first women in space")
+//let kmMile= input.question("True or False is 5 KM===5000 meters")
 
 
 
