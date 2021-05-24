@@ -1,7 +1,7 @@
 // TODO 1.1a: Define candidateName //
 const input = require('readline-sync');
 
-
+  // TODO 1.1b: Ask for candidate's name //
 let candidateName= input.question("Enter Candidate name: ");
 //console.log; ("Hello"+ candidateName)
 
