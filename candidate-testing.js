@@ -1,9 +1,22 @@
+// TODO 1.1a: Define candidateName //
 const input = require('readline-sync');
+
+  // TODO 1.1b: Ask for candidate's name //
+let candidateName= input.question("Enter Candidate name: ");
+console.log; ("Hello"+ candidateName)
+
+//let firstWomeninSpace= input.question("Who was first women in space")
+//let kmMile= input.question("True or False is 5 KM===5000 meters")
+
+
+
+
+
+
 
 // TODO 2: modify your quiz app to ask 5 questions //
 
-// TODO 1.1a: Define candidateName // 
-let candidateName;
+
 // TODO 1.2a: Define question, correctAnswer, and candidateAnswer //
 let question;
 let correctAnswer;
